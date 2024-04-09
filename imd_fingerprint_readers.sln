@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imd_fingerprint_readers", "imd_fingerprint_readers\imd_fingerprint_readers.csproj", "{9C378498-42A7-40F7-9A02-642C40991CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C378498-42A7-40F7-9A02-642C40991CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C378498-42A7-40F7-9A02-642C40991CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C378498-42A7-40F7-9A02-642C40991CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C378498-42A7-40F7-9A02-642C40991CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E67AB539-D522-4157-8082-08ED6902F5AC}
+	EndGlobalSection
+EndGlobal
